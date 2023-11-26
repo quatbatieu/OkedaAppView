@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "611048644683",
+    "project_id": "ttdk-40cfe",
+    "storage_bucket": "ttdk-40cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611048644683:android:3ef1b54c80c1b4c8846dce",
+        "android_client_info": {
+          "package_name": "com.ttdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611048644683-e1ucrmn2h71mdcj42knhonmmhhmn6po5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ttdk",
+            "certificate_hash": "5528d69d90f700f35701f7e43aa60692e3b10537"
+          }
+        },
+        {
+          "client_id": "611048644683-g81ndptovo323q82ck7sb5a9abi3q7th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-S6IGLABfD4XqUSmb98ipwSL4Q2tsio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611048644683-g81ndptovo323q82ck7sb5a9abi3q7th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611048644683-qbs58e7cqfetsibo95kie2ov3l4lijgb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ttdk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
