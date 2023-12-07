@@ -13,12 +13,12 @@ export const unSubscribeTopic = async (topic) => {
 	}
 };
 
-export const subscribeToTopicGeneral = () => {
-	const GENERAL = "GENERAL";
-	messaging()
-		.subscribeToTopic(GENERAL)
-		.then((response) => {});
-};
+// export const subscribeToTopicGeneral = () => {
+// 	const GENERAL = "GENERAL";
+// 	messaging()
+// 		.subscribeToTopic(GENERAL)
+// 		.then((response) => {});
+// };
 
 export async function requestUserPermission() {
 	const authStatus = await messaging().requestPermission();
