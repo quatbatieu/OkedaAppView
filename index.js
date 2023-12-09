@@ -18,7 +18,7 @@ notifee.onBackgroundEvent(async ({ type, detail }) => {
     }
 });
 
-messaging().setBackgroundMessageHandler(async remoteMessage => {
-});
+// messaging().setBackgroundMessageHandler(async remoteMessage => {
+// });
 
 AppRegistry.registerComponent(appName, () => App);
